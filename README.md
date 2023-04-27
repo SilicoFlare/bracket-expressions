@@ -18,6 +18,6 @@ Since I dodn't know what they are called, I stuck to the name **"Bracket Express
 
 ### Version 1.0.0
 The first public release of the code.
-    - Works for non-nested and nested expressions
-    - NO error checking
-    - Example included in main.py
+- Works for non-nested and nested expressions
+- NO error checking
+- Example included in main.py
