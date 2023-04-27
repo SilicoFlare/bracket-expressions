@@ -14,7 +14,7 @@ It took me around 5 minutes to solve this problem, but yeah, it was worth every 
 
 In a couple of hours, I was ready with a perfectly working program, which can solve *correct* expressions (I didn't add any error checking, yet).
 
-Since I dodn't know what they are called, I stuck to the name **"Bracket Expressions"**.  
+Since I don't know what they are called, I stuck to the name **"Bracket Expressions"**.  
 
 
 
