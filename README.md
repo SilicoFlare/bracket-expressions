@@ -3,10 +3,10 @@
 ## Introduction
 The term 'Bracket Expressions' doesn't really make sense. In fact, it doesn't make sense to me, too. But then, when writing a tech-related exam, I came across this question: 
 
-```
+
 The expression '(+ 1 2 3)' refers to the expression '1 + 2 + 3', also extending to the operators -, * and /. Given this data, evaluate: 
-(/ (* (- (+ 12 4) (* 3 4)) (+ 5 6 7)) (+ 8 9 10))
-```
+`(/ (* (- (+ 12 4) (* 3 4)) (+ 5 6 7)) (+ 8 9 10))`
+
 
 It took me around 5 minutes to solve this problem, but yeah, it was worth every second. After the exam, I thought, "Why shouldn't I write a program to solve such expressions?" 
 
